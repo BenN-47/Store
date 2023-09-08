@@ -1,0 +1,8 @@
+productID,type,title,author/artist,Stock,price
+1,Book,Don Quixote,Miguel de Cervantes,10,12.99,true
+2,Book,A Tale of Two Cities,Charles Dickens,10,10.99,true
+3,Book,The Lord of the Rings,J. R. R. Tolkien,10,14.99,true
+4,CD,Hotel California,Eagles,5,24.99,true
+5,CD,Thriller,Micheal Jackson,5,19.99,true
+6,DVD,The Lion King,Fiction,3,39.99,true
+7,Book,The Tale of Despereaux,idk,5,13,true

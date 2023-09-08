@@ -1,0 +1,6 @@
+name, numPurchases, memid, isPremiumMember
+Jerry Thomas,0,1001,false
+Kelly Potter,0,1005,false
+Ethan Smith,3,1003,false
+Terry Brown,5,1002,true
+Erick Patrick,7,1004,true
